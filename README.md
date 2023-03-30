@@ -1,5 +1,5 @@
 <h2>Hi! I'm Noah Kemp</h2>
-Welcome to my programming hell hole. I'm studying to be a software engineer.
+Welcome to my programming hell hole where I'm studying to be a software engineer.
 <h3>My interests include:</h3>
 - Mathematics<br>
 - Graphics<br>
