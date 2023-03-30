@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @printNoahKemp
-- 👀 I’m interested in programming, mathematics, machine learning and artificial intelligence
-- 🌱 I’m currently learning programming in Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email=Leyshon.Noah@gmail.com
-                      LinkedIn=https://www.linkedin.com/in/noah-kemp-744855204/
+<h2>Hi! I'm Noah Kemp</h2>
+Welcome to my programming hell hole. I'm studying to be a software engineer.
+<h3>My interests include:</h3>
+- Mathematics<br>
+- Graphics<br>
+- Simulations<br>
+- System level software
+<h3>I can be contacted on</h3>
+LinkedIn=https://www.linkedin.com/in/noah-kemp-744855204/
 
 <!---
 printNoahKemp/printNoahKemp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
